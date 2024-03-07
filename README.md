@@ -15,7 +15,7 @@ The project mainly deals with fundamental CRUD operations on API <br/>
 
 # Installation
 
-->Use `git clone` to clone project in your local repo.
+->Use `git clone` to clone project in your local repo.<br/>
 ->Use `npm install` to install all the dependencies mentioned in package.json file.<br/>
 
 # Running
